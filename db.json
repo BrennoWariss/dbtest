@@ -1,0 +1,29 @@
+{
+  "_messages": [],
+  "total": 3,
+  "dataFimUtilizada": "2020-06-16T20:00:03.981Z",
+  "dataInicioUtilizada": "2020-06-10T00:00:00Z",
+  "gestoesDeItem": [
+    {
+      "numeroDaObra": "12778",
+      "numeroDaPO": "4521883498",
+      "itemDePO": "10",
+      "MIGOPodeSerLiberado": "sim",
+      "areaEricsson": null
+    },
+    {
+      "numeroDaObra": "6114",
+      "numeroDaPO": "4520776800",
+      "itemDePO": "20",
+      "MIGOPodeSerLiberado": "sim",
+      "areaEricsson": null
+    },
+    {
+      "numeroDaObra": null,
+      "numeroDaPO": "4522129677",
+      "itemDePO": "10",
+      "MIGOPodeSerLiberado": "sim",
+      "areaEricsson": null
+    }
+  ]
+}
